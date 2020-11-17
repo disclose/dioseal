@@ -1,4 +1,4 @@
-# The disclose.io Project
+# The disclose.io Seal (dioseal)
 
 > Our Vision: A healthy and ubiquitous Internet Immune System  
 > Our Mission: To drive vulnerability disclosure adoption through safety, simplicity, and standardization.  
