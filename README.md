@@ -1,3 +1,24 @@
+<div align="center">
+
+<img src="docs/marquee.png" alt="dioseal — the mark that says: report safely here · disclose.io" width="820">
+
+# dioseal — the disclose.io Seal
+
+### A recognizable mark for programs that adopt vulnerability-disclosure best practice — safety to researchers, maturity to customers, in one glance.
+
+<p>
+<a href="LICENSE"><img src="https://img.shields.io/github/license/disclose/dioseal?color=5B3AB6&label=license" alt="CC0 1.0"></a>
+<a href="https://disclose.io"><img src="https://img.shields.io/badge/part_of-disclose.io-5B3AB6" alt="Part of disclose.io"></a>
+<a href="https://github.com/disclose/dioterms"><img src="https://img.shields.io/badge/pairs_with-dioterms-5B3AB6" alt="Pairs with dioterms"></a>
+<a href="https://github.com/disclose/dioseal/issues"><img src="https://img.shields.io/badge/PRs-welcome-5B3AB6" alt="PRs welcome"></a>
+</p>
+
+*Part of [the disclose.io Project](https://disclose.io) · [dioterms](https://github.com/disclose/dioterms) · [directory](https://directory.disclose.io) · [policymaker](https://policymaker.disclose.io)*
+
+</div>
+
+---
+
 # The disclose.io Seal (dioseal)
 
 > Our Vision: A healthy and ubiquitous Internet Immune System  
